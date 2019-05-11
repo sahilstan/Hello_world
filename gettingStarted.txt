@@ -15,3 +15,6 @@ Local - Computer // Remote - Web
 
 9. git branch <branchName> // To create a new branch
 10. git checkout <branchName> // To go to that branch
+
+11. Whatever you do in that branch will not matter until you merge it to master 
+12. git merge <branchName>
