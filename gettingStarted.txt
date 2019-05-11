@@ -11,3 +11,7 @@ Local - Computer // Remote - Web
 6. git push -u origin master // To push the code
 
 7. Add .gitignore to ignore the files you want to upload on remote
+8. Add the fileName in the .gitignore file and that will not be uploaded
+
+9. git branch <branchName> // To create a new branch
+10. git checkout <branchName> // To go to that branch
