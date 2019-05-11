@@ -1,0 +1,9 @@
+Git Tutorial:
+
+Local - Computer
+
+1. git init // To initialise git repo
+2. git add <filenName> or . for all the files to be added // To upload files from local
+3. git status // To check the status of added files
+4. git rm --cached <file> // To remove added file
+5. git commit -m "Initial Commit" // To commit the changes
