@@ -1,9 +1,13 @@
 Git Tutorial:
 
-Local - Computer
+Local - Computer // Remote - Web
 
 1. git init // To initialise git repo
 2. git add <filenName> or . for all the files to be added // To upload files from local
 3. git status // To check the status of added files
 4. git rm --cached <file> // To remove added file
 5. git commit -m "Initial Commit" // To commit the changes
+5 git remote add origin https://github.com/sahilstan/hello_world.git // To add origin 
+6. git push -u origin master // To push the code
+
+7. Add .gitignore to ignore the files you want to upload on remote
